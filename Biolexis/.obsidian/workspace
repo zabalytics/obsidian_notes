@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "a7b27920a1fd6b85",
+    "type": "split",
+    "children": [
+      {
+        "id": "b12b99cf2dbb3988",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "Papers/documents/above_the_clouds_berkley_view.pdf"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52a730100a37679b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f7b29eeaf775c11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10d60908e7bbea31",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "dbd424408e60b575",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1b153eec59b95285",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1944b5dc77bc658",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa01a3e2b63f67cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Papers/documents/above_the_clouds_berkley_view.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b12b99cf2dbb3988",
+  "lastOpenFiles": [
+    "Papers/documents/above_the_clouds_berkley_view.pdf",
+    "Papers/Notes/Above the Clouds Berkley View.md",
+    "Untitled.md",
+    "Papers/documents/cloud_programming_simplified.pdf",
+    "Workflow - Process and User Story.md",
+    "AWS/EC2 (Elastic Computing Cloud).md",
+    "AWS/EC2 Tags.md",
+    "AWS/Amazon Web Services Overview.md",
+    "AWS/Volume.md",
+    "AWS/EC2 Subnets.md"
+  ]
+}
